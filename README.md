@@ -70,7 +70,6 @@ PlotWeaver uses a crew of specialized AI agents to craft engaging stories from s
 ## Potential Improvements
 
 - **Interactive Editing**: Enable users to request specific revisions to generated stories.
-- **Multiple LLM Support**: Expand beyond Groq to support various LLM providers (OpenAI, Anthropic, etc.)
 - **Story Visualization**: Integrate image generation APIs like DALL-E to create chapter-specific illustrations and logos, enhancing the storytelling experience.
 - **Fine-tuning Controls**: Let users adjust parameters like creativity, complexity, and tone.
 - **Character Artwork**: Generate character portraits to accompany character descriptions.
